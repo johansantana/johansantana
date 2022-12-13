@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently focused on working on personal projects, and learn new things
-- 🌱 I’m currently learning about Vue, Node and React
+- 🌱 I’m currently learning about Vue, TypeScript, Node and Python
 <!--
 **JohanC34/JohanC34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
